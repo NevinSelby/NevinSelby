@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.
+I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br>
 I am a passionate learner and also have a keen interest in new technologies.
 
