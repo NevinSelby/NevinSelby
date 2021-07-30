@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br>
 
+## Contact Me
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
+[<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp; &nbsp; &nbsp;
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NevinSelby&include_all_commits=1&hide_border=true&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=chartreuse-dark" width="47%" height="160px" style="margin-top:20px"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=chartreuse-dark" width="47%" height="300px" style="margin-top:40px"/>
@@ -41,26 +48,8 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 </p>
-
 ---
-## Tools:
-<p align="left">
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
 
----
-## Contact Me
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
-[<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp; &nbsp; &nbsp;
 
 
 <br/>
