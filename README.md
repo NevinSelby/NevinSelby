@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 -->
 I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br>
 
-## Contact Me
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
-[<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp; &nbsp; &nbsp;
-
-##
----
 ## Languages:    
 <p align="left">                                                                               
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -37,6 +28,15 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 </p>
+
+## Contact Me
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp; &nbsp; &nbsp;
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
+[<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp; &nbsp; &nbsp;
+
+
 ---
 
 
