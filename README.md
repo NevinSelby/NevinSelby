@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br>
----
+
 ## Languages:    
 <p align="left">                                                                               
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -29,7 +29,7 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 </p>
 
 <br>
----
+
 ## Contact Me
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,7 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 
 
 
----
+
 <br/>
 
 [linkedin]:https://www.linkedin.com/in/nevin-selby-5478381a9/
