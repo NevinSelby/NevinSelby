@@ -65,7 +65,7 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 
 <br/>
 
-[linkedin]:https://www.linkedin.com/in/nevin-selby/
+[linkedin]:https://www.linkedin.com/in/nevin-selby-5478381a9/
 [github]:https://github.com/NevinSelby
 [gmail]:mailto:nevin2019@iiitkottayam.ac.in?subject=&body=
 [instagram]:https://www.instagram.com/nevin.selby/
