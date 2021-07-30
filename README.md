@@ -27,6 +27,8 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
+
+<br>
 ---
 ## Contact Me
 
