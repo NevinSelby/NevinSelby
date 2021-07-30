@@ -23,6 +23,7 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp; &nbsp; &nbsp;
 [<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp; &nbsp; &nbsp;
 
+##
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NevinSelby&include_all_commits=1&hide_border=true&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=chartreuse-dark" width="47%" height="160px" style="margin-top:20px"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=chartreuse-dark" width="47%" height="300px" style="margin-top:40px"/>
