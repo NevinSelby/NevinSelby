@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br>
-
+---
 ## Languages:    
 <p align="left">                                                                               
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -26,9 +26,8 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
 </p>
-
+---
 ## Contact Me
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
@@ -37,10 +36,8 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 [<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp;&nbsp;&nbsp;
 
 
+
 ---
-
-
-
 <br/>
 
 [linkedin]:https://www.linkedin.com/in/nevin-selby-5478381a9/
