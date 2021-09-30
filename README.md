@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br><br>
 
+### Whats going on:
+- 📖 Learning Machine Learning and Computer Vision.
+- 👾 All of my projects are available on Github.
+- 📫 How to reach me: nvnsly@gmail.com
+
 ## Languages:    
 <p align="left">                                                                               
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -28,11 +33,9 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-<br>
-
 ## Tools & Frameworks:
 <p align="left">
-<img alt="React Native" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=%2361DAFX"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
