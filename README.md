@@ -21,15 +21,15 @@ I am a student pursuing B.Tech in Computer Science in the Indian Institute of In
 - 👾 All of my projects are available on Github.
 - 📫 How to reach me: nvnsly@gmail.com
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NevinSelby&include_all_commits=1&hide_border=true&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=chartreuse-dark" width="47%" height="160px" style="margin-top:20px width:100%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NevinSelby&include_all_commits=1&hide_border=true&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=github_dark" width="47%" height="160px" style="margin-top:20px width:100%"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=chartreuse-dark" width="47%" height="300px" style="margin-top:40px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=github_dark" width="47%" height="300px" style="margin-top:40px"/>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NevinSelby&currStreakLabel=00AEFF&hide_border=true&theme=chartreuse-dark" width="47%" height="160px" style="margin-top:40px width:100%"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NevinSelby&currStreakLabel=00AEFF&hide_border=true&theme=github_dark" width="47%" height="160px" style="margin-top:40px width:100%"/>
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=NevinSelby&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15 " width="100%" height="160px" style="margin-top:20px width:100%"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=NevinSelby&custom_title=Contribution%20Graph&bg_color=000000&color=00AEFF&line=39FF14&point=FF3300&hide_border=true" style="margin-top:40px width:100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=NevinSelby&custom_title=Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=39FF14&hide_border=true" style="margin-top:40px width:100%"/>
 
 ---
 
