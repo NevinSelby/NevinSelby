@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br><br>
 
 ### Whats going on:
-- 📖 Learning Machine Learning and Computer Vision.
+- 📖 Learning WebScraping, Automation, Machine Learning and Computer Vision.
 - 👾 All of my projects are available on Github.
 - 📫 How to reach me: nvnsly@gmail.com
 
