@@ -1,4 +1,3 @@
-### Hi, I'm Nevin Selby 👋
 
 <!--
 **NevinSelby/NevinSelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a student pursuing B.Tech in Computer Science in the Indian Institute of Information Technology, Kottayam.<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+I'm+Nevin+Selby+👋;IIITian+🎓;Passionate+Learner;Open+Source+Contributor;ML+Enthusiast;">
+</p>
 
 ### Whats going on:
 - 📖 Learning WebScraping, Automation, Machine Learning and Computer Vision.
