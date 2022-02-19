@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Whats going on:
-- 📖 Learning WebScraping, Automation, Machine Learning and Computer Vision.
+- 📖 Learning Machine Learning and Computer Vision.
 - 👾 All of my projects are available on Github.
 - 📫 How to reach me: nvnsly@gmail.com
 
