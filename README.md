@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 </p>
 
 ### Whats going on:
-- 📖 Learning Machine Learning and Computer Vision.
-- 👾 All of my projects are available on Github.
-- 📫 How to reach me: nvnsly@gmail.com
+- 📖 Learning Machine Learning and Computer Vision
+- 👾 All of my projects are available on Github and <a href="https://www.kaggle.com/nevinselby">Kaggle</a>
+- 🤓 Actively participating in coding competitions and hackathons
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NevinSelby&include_all_commits=1&hide_border=true&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=github_dark" width="47%" height="160px" style="margin-top:20px width:100%"/>
 
