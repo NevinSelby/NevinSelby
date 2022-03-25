@@ -1,4 +1,3 @@
-
 <!--
 **NevinSelby/NevinSelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,24 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://nevinselby.github.io/Portfolio/">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+I'm+Nevin+Selby+👋;IIITian+🎓;Passionate+Learner;Open+Source+Contributor;ML+Enthusiast;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+I'm+Nevin+Selby+👋;IIITian+🎓;Passionate+Learner;Open+Source+Contributor;Competitive+Coder;ML+Enthusiast;">
 </p>
+</a>
 
 ### Whats going on:
 - 📖 Learning Machine Learning and Computer Vision
 - 👾 All of my projects are available on Github and <a href="https://www.kaggle.com/nevinselby">Kaggle</a>
 - 🤓 Actively participating in coding competitions and hackathons
 
+ 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NevinSelby&include_all_commits=1&hide_border=true&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=github_dark" width="47%" height="160px" style="margin-top:20px width:100%"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=github_dark" width="47%" height="300px" style="margin-top:40px"/>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NevinSelby&currStreakLabel=00AEFF&hide_border=true&theme=github_dark" width="47%" height="160px" style="margin-top:40px width:100%"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NevinSelby&currStreakLabel=00AEFF&hide_border=true&&theme=tokyonight" width="47%" height="160px" style="margin-top:40px width:100%"/>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=NevinSelby&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15 " width="100%" height="160px" style="margin-top:20px width:100%"/>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=NevinSelby&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15" width="100%" height="160px" style="margin-top:20px width:100%"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=NevinSelby&custom_title=Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=39FF14&hide_border=true" style="margin-top:40px width:100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=NevinSelby&custom_title=Contribution%20Graph&bg_color=1C1C2F&color=ffffff&line=ffffff&point=0E86D4&hide_border=true" style="margin-top:40px width:100%"/>
 
 ---
 
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 
 ## Tools & Frameworks:
 <p align="left">
-<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=%2361DAFX"/>
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -56,6 +58,10 @@ Here are some ideas to get you started:
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-%231572B6?style=for-the-badge&logo=jupyter&logoColor=yellow"/>
 </p>
 
 ## Contact Me
