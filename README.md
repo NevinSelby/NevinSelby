@@ -44,6 +44,9 @@
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=NevinSelby&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15" width="100%" height="160px" style="margin-top:20px width:100%"/>
 
 
+![Snake animation](https://github.com/NevinSelby/NevinSelby/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Contact Me
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
@@ -58,8 +61,6 @@
 [gmail]:mailto:nevin2019@iiitkottayam.ac.in?subject=&body=
 [instagram]:https://www.instagram.com/nevin.selby/
 [whatsapp]:https://api.whatsapp.com/send/?phone=919769068282&text&app_absent=0
-
-![Snake animation](https://github.com/NevinSelby/NevinSelby/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Visitor Count
