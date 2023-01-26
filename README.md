@@ -59,7 +59,5 @@
 [instagram]:https://www.instagram.com/nevin.selby/
 [whatsapp]:https://api.whatsapp.com/send/?phone=919769068282&text&app_absent=0
 
-![Snake animation](https://github.com/Sven-Bo/Sven-Bo/blob/output/github-contribution-grid-snake.svg)
-
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{NevinSelby}/count.svg)
