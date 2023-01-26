@@ -15,9 +15,9 @@
 
 ## Languages:    
 <p align="left">                                                                               
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -27,23 +27,21 @@
 
 ## Tools & Frameworks:
 <p align="left">
-<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-%231572B6?style=for-the-badge&logo=jupyter&logoColor=yellow"/>
 </p>
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=NevinSelby&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15" width="100%" height="160px" style="margin-top:20px width:100%"/>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=NevinSelby&custom_title=Contribution%20Graph&bg_color=1C1C2F&color=ffffff&line=ffffff&point=0E86D4&hide_border=true" style="margin-top:40px width:100%"/>
 
 
 ## Contact Me
