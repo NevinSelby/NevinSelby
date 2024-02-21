@@ -1,11 +1,12 @@
 <a href="https://nevinselby.github.io/Portfolio/">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+I'm+Nevin+Selby+👋;BTech+CSE+Undergrad+@IIITKtym+🎓;Content+Writer;ML+Enthusiast;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+I'm+Nevin+Selby+👋;MS+Data+Science+@UW-Madison+🎓;Content+Writer;ML+Enthusiast;">
 </p>
 </a>
 
 ### Whats going on:
-- 📖 Learning more about MLOps and XAI
+- 📖 Working on Label Efficient Learning under Prof. Robert Nowak
+- 🎓 Pursuing my Master's in Data Science from the University of Wisconsin-Madison
 - 👾 All of my projects are available on this Github and on <a href="https://www.kaggle.com/nevinselby">Kaggle</a>
 - 🤓 Actively seeking opportunities in the fields of AI and ML
 
