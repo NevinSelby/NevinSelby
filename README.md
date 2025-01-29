@@ -5,10 +5,10 @@
 </a>
 
 ### Whats going on:
-- 📖 Working on Label Efficient Learning under Prof. Robert Nowak
+- 📖 Working as a Data Science Intern and as a Research Assistant at UW-Madison
 - 🎓 Pursuing my Master's in Data Science from the University of Wisconsin-Madison
-- 👾 All of my projects are available on this Github and on <a href="https://www.kaggle.com/nevinselby">Kaggle</a>
-- 🤓 Actively seeking opportunities in the fields of AI and ML
+- 🤓 Actively seeking opportunities in the fields of Data and AI
+- 📷 Also trying to vlog in my YouTube Channel 
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=github_dark" width="47%" height="300px" style="margin-top:40px"/>
@@ -28,16 +28,13 @@
 
 ## Tools & Frameworks:
 <p align="left">
-<img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-%231572B6?style=for-the-badge&logo=jupyter&logoColor=yellow"/>
 </p>
@@ -57,12 +54,10 @@
 
 <br/>
 
-[linkedin]:https://www.linkedin.com/in/nevin-selby-5478381a9/
-[github]:https://github.com/NevinSelby
-[gmail]:mailto:nevin2019@iiitkottayam.ac.in?subject=&body=
+[linkedin]:https://linkedin.com/in/nevinselby
+[gmail]:mailto:nevinselby2001@gmail.com?subject=&body=
 [instagram]:https://www.instagram.com/nevin.selby/
-[whatsapp]:https://api.whatsapp.com/send/?phone=919769068282&text&app_absent=0
-
+[youtube]:https://www.youtube.com/@nevinselby
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{NevinSelby}/count.svg)
