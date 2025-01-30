@@ -50,7 +50,7 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]&nbsp;&nbsp;&nbsp;
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp;&nbsp;&nbsp;
-[<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]&nbsp;&nbsp;&nbsp;
+[<img alt="YouTube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
 
 <br/>
 
