@@ -39,11 +39,6 @@
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-%231572B6?style=for-the-badge&logo=jupyter&logoColor=yellow"/>
 </p>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=NevinSelby&theme=darkhub&no-frame=false&column=7&margin-w=60&margin-h=15" width="100%" height="160px" style="margin-top:20px width:100%"/>
-
-
-![Snake animation](https://github.com/NevinSelby/NevinSelby/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Contact Me
 
