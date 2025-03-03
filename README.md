@@ -5,7 +5,7 @@
 </a>
 
 ### Whats going on:
-- 📖 Working as a Data Science Intern and as a Machine Learning Engineer at UW-Madison
+- 📖 Working as a Data Science Intern at UW-Madison
 - 🎓 Pursuing my Master's in Data Science from the University of Wisconsin-Madison
 - 🤓 Actively seeking opportunities in the fields of Data and AI
 - 📷 Also trying to vlog in my YouTube Channel 
