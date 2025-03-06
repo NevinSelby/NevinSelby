@@ -9,7 +9,7 @@
 - 🎓 Pursuing my Master's in Data Science from the University of Wisconsin-Madison
 - 🤓 Actively seeking opportunities in the fields of Data and AI
 - 📷 Also trying to vlog in my YouTube Channel
-- 💻 You can check out my portfolio at: nevinselby.github.io
+- 💻 You can check out my portfolio at: <a href="https://nevinselby.github.io">nevinselby.github.io</a>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=github_dark" width="47%" height="300px" style="margin-top:40px"/>
