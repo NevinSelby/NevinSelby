@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/Bookworm-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/NevinSelby/NevinSelby/blob/main/assets/linkedinbanner.jpg" width="80%" alt="banner"/>
-</p>
-
 ---
 
 ## 🖼️ What I Do  
