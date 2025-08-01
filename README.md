@@ -22,7 +22,7 @@
 ## 🖼️ What I Do  
 
 <p align="center">
-<b>AI Pipelines · MLOps Workflows · Drone Imagery Analysis · Sentiment AI · Photography · Bookworm</b>
+<b>AI Pipelines · MLOps Workflows · Drone Imagery Analysis · Sentiment AI · Photography · Read</b>
 </p>
 
 ---
